@@ -1,0 +1,1 @@
+X=MsgBox("HAHAHAH! Your desktop and task bar disappeared! ;).",0+148,"INFO")

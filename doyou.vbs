@@ -1,0 +1,1 @@
+X=MsgBox("MUHAHAHAH! I think you try to escape this virus. No way!",0+48,"WARNING")

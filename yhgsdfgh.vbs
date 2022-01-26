@@ -1,0 +1,1 @@
+X=MsgBox("If you click OK you will not get your computer back! ;).",0+48,"WARNING")
